@@ -4,7 +4,7 @@ site_description: 'Main documentation for Backstage features and platform APIs'
 plugins:
   - techdocs-core
 
-nav:
+#nav:
   # - Overview:
       #  - What is Backstage?: 'faq.md'
-  - FAQ: 'faq.md'
+  #- FAQ: 'faq.md'
